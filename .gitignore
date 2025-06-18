@@ -1,0 +1,8 @@
+# Python virtual environment
+venv/
+
+# Chroma DB persistent storage
+chroma_db/
+
+# Python bytecode cache
+__pycache__/
